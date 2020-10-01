@@ -1,2 +1,2 @@
 "# google_pie_charts" 
-create database named `charts` and import the sql file
+create database named `charts` and import the sql file in php my admin dashoard
